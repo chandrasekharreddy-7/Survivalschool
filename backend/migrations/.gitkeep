@@ -1,0 +1,4 @@
+"""Database migrations initialization"""
+# Placeholder for alembic migrations
+# Run: alembic init migrations
+# Then: alembic revision --autogenerate -m "Initial migration"
